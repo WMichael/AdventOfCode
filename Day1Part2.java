@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
-import java.util.stream.Collectors;
 
 public class Day1Part2 {
     public static void main(String[] args) throws FileNotFoundException {
