@@ -1,2 +1,2 @@
 # AdventOfCode
-My solutions for the Advent of Code
+My attempt at the Advent of Code! 😊
